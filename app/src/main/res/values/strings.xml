@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">YandexTest</string>
+    <string name="list_screen_label">Artists</string>
+    <string name="text_generator_class_name">ru.dmbel.yandextest.local.EngTextCompositor</string>
+    <string name="albums">albums</string>
+    <string name="tracks">songs</string>
+    <string name="word_bography">Biography</string>
+</resources>
